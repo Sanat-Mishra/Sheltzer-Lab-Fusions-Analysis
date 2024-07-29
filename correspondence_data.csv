@@ -1,0 +1,299 @@
+Patient ID,Specimen ID,Sample ID,CTEP SDCDescription,DiagnosisSubtype,OncoTreeCode,Disease BodyLocation,PDM Type,ABCB1
+562452,108-R,AL-KV9,Invasive breast carcinoma,"Ductal, TNBC",IDC,Breast,PDX,18258.324258323628
+562452,108-R,AL-KV8,Invasive breast carcinoma,"Ductal, TNBC",IDC,Breast,PDX,15042.43184362734
+562452,108-R,AL-KV9_AL-J89,Invasive breast carcinoma,"Ductal, TNBC",IDC,Breast,PDX,12451.581013967496
+562452,108-R,AL-KV5P13,Invasive breast carcinoma,"Ductal, TNBC",IDC,Breast,PDX,9576.619073317723
+562452,108-R,AL-KV7_AL-C01P33,Invasive breast carcinoma,"Ductal, TNBC",IDC,Breast,PDX,9570.503160571687
+562452,108-R,AL-KV7_AL-C02,Invasive breast carcinoma,"Ductal, TNBC",IDC,Breast,PDX,8957.000100000007
+562452,108-R,V1-organoid,Invasive breast carcinoma,"Ductal, TNBC",IDC,Breast,Organoid Culture,7787.484100645152
+K26406,001-R,AL-K5F,Invasive breast carcinoma,"ductal, TNBC",IDC,Breast,PDX,7136.990100000005
+K26406,001-R,AL-K5C_AL-Q09,Invasive breast carcinoma,"ductal, TNBC",IDC,Breast,PDX,6882.507038457903
+K26406,001-R,AL-K4X,Invasive breast carcinoma,"ductal, TNBC",IDC,Breast,PDX,6467.990100000005
+K26406,001-R,AL-K5C_AL-Q08_AL-Q47,Invasive breast carcinoma,"ductal, TNBC",IDC,Breast,PDX,6223.980100000004
+K26406,001-R,AL-K5C_AL-Q07,Invasive breast carcinoma,"ductal, TNBC",IDC,Breast,PDX,6175.920100000005
+K26406,001-R,AL-K4X_AL-Q12,Invasive breast carcinoma,"ductal, TNBC",IDC,Breast,PDX,5036.000100000004
+731979,095-R,AL-VJW,Invasive breast carcinoma,"Ductal, TNBC",IDC,Breast,PDX,4713.319656307923
+731979,095-R,AL-VAY_AL-W10,Invasive breast carcinoma,"Ductal, TNBC",IDC,Breast,PDX,4496.499737355706
+388244,064-R,J1-PDC,Invasive breast carcinoma,TNBC,BRCA,Breast,PDC: Mixed Tumor Culture,3796.570245521454
+428986,081-R,AL-VEP_AL-J01,"Breast cancer, NOS","TNBC, Metaplastic Spindle Cell Carcinoma ",MASCC,Breast,PDX,1879.6196689913324
+731979,095-R,AL-VAY_AL-W08,Invasive breast carcinoma,"Ductal, TNBC",IDC,Breast,PDX,1707.2926724202464
+428986,081-R,AL-VEP_AL-G99_AL-N08,"Breast cancer, NOS","TNBC, Metaplastic Spindle Cell Carcinoma ",MASCC,Breast,PDX,1582.4094400310887
+428986,081-R,AL-VEQ,"Breast cancer, NOS","TNBC, Metaplastic Spindle Cell Carcinoma ",MASCC,Breast,PDX,1264.190995887356
+193832,021-R,ORIGINATOR,Invasive breast carcinoma,"ductal, TNBC",IDC,Breast,Patient/Originator Specimen,777.0001000000005
+731979,095-R,AL-VAY_AL-W13_AL-P28,Invasive breast carcinoma,"Ductal, TNBC",IDC,Breast,PDX,737.2646063134954
+731979,095-R,AL-VAY_AL-W13_AL-P28_AL-U19,Invasive breast carcinoma,"Ductal, TNBC",IDC,Breast,PDX,566.5590559480623
+755229,096-R,V1-organoid,Invasive breast carcinoma,Ductal,IDC,Breast,Organoid Culture,515.0963551306901
+428986,081-R,AL-VEQ_AL-J19_RG-AL-P52,"Breast cancer, NOS","TNBC, Metaplastic Spindle Cell Carcinoma ",MASCC,Breast,PDX,501.7764196599096
+447297,187-R,V4-organoid,Invasive breast carcinoma,"TNBC, Ductal",IDC,Breast,Organoid Culture,332.00010000000026
+412248,322-R,ORIGINATOR,Invasive breast carcinoma,"Ductal, TNBC",IDC,Breast,Patient/Originator Specimen,324.9342130679589
+128162,247-R,V1-organoid,Invasive breast carcinoma,"ductal, TNBC",IDC,Breast,Organoid Culture,303.0001000000002
+727343,253-R,AL-N6A_AL-U25_AL-M392,Invasive breast carcinoma,-,BRCA,Breast,PDX,292.9581995728091
+337426,197-R,ORIGINATOR,Invasive breast carcinoma,TNBC,BRCA,Breast,Patient/Originator Specimen,281.0001000000002
+414838,212-R,AL-Y5C_AL-XC6,Invasive breast carcinoma,"TNBC, ductal",IDC,Breast,PDX,261.9301000000002
+K88036,263-T,KTQ,Invasive breast carcinoma,TNBC,BRCA,Breast,PDX,233.45648386092319
+K88036,263-T,KTQC01,Invasive breast carcinoma,TNBC,BRCA,Breast,PDX,217.10839238053362
+414838,212-R,AL-Y5E,Invasive breast carcinoma,"TNBC, ductal",IDC,Breast,PDX,205.96010000000018
+868763,120-R,V1-organoid,Invasive breast carcinoma,Ductal TNBC,IDC,Breast,Organoid Culture,200.00010000000015
+731979,095-R,AL-VAY_AL-W13_AL-P30,Invasive breast carcinoma,"Ductal, TNBC",IDC,Breast,PDX,182.55615339939172
+414838,212-R,AL-Y5F_AL-XW4,Invasive breast carcinoma,"TNBC, ductal",IDC,Breast,PDX,172.00010000000015
+414838,212-R,AL-Y5EWY7,Invasive breast carcinoma,"TNBC, ductal",IDC,Breast,PDX,161.00273695555057
+415267,285-R,ORIGINATOR,Inflammatory breast carcinoma,TNBC,IBC,Breast,Patient/Originator Specimen,145.00010000000012
+414838,212-R,V2-organoid,Invasive breast carcinoma,"TNBC, ductal",IDC,Breast,Organoid Culture,130.00010000000012
+K88036,263-T,KTP,Invasive breast carcinoma,TNBC,BRCA,Breast,PDX,119.13300323188801
+388244,064-R,ORIGINATOR,Invasive breast carcinoma,TNBC,BRCA,Breast,Patient/Originator Specimen,102.99406196722641
+885512,296-R,ORIGINATOR,Invasive breast carcinoma,"TNBC, mixed ductal carcinoma and metaplastic squamous cell carcinoma",MMBC,Breast,Patient/Originator Specimen,96.95077389876143
+748385,122-R,ORIGINATOR,Invasive breast carcinoma,Ductal,IDC,Breast,Patient/Originator Specimen,80.00010000000006
+755229,096-R,ORIGINATOR,Invasive breast carcinoma,Ductal,IDC,Breast,Patient/Originator Specimen,79.00010000000006
+558632,135-R,AL-ETU_AL-EK5_AL-G89,Invasive breast carcinoma,"ductal, TNBC",IDC,Breast,PDX,79.00010000000006
+414838,212-R,AL-Y5E_AL-WY3YK7,Invasive breast carcinoma,"TNBC, ductal",IDC,Breast,PDX,76.00010000000006
+885512,296-R,V1-organoid,Invasive breast carcinoma,"TNBC, mixed ductal carcinoma and metaplastic squamous cell carcinoma",MMBC,Breast,Organoid Culture,70.13463092266036
+171881,019-R,ORIGINATOR,Invasive breast carcinoma,-,BRCA,Breast,Patient/Originator Specimen,62.08706776601205
+243415,090-R,ORIGINATOR,Invasive breast carcinoma,Ductal ,IDC,Breast,Patient/Originator Specimen,60.54010000000005
+824345,141-R,ORIGINATOR,Invasive breast carcinoma,TNBC,BRCA,Breast,Patient/Originator Specimen,55.000100000000046
+414838,212-R,AL-Y5CXC8YA9,Invasive breast carcinoma,"TNBC, ductal",IDC,Breast,PDX,53.13654926972046
+727343,253-R,AL-N6A_AL-U22,Invasive breast carcinoma,-,BRCA,Breast,PDX,52.000100000000046
+428986,081-R,V2-organoid,"Breast cancer, NOS","TNBC, Metaplastic Spindle Cell Carcinoma ",MASCC,Breast,Organoid Culture,49.00010000000004
+585541,042-R,AL-P8E,Inflammatory breast carcinoma,infiltrating ductal ,IBC,Breast,PDX,44.09951898544207
+431587,115-T,AL-YFY_AL-M915_AL-M140,Invasive breast carcinoma,Lobular,ILC,Breast,PDX,41.00010000000003
+128162,247-R,AL-NQ6,Invasive breast carcinoma,"ductal, TNBC",IDC,Breast,PDX,40.00010000000003
+727343,253-R,AL-NNV_AL-T63,Invasive breast carcinoma,-,BRCA,Breast,PDX,39.00010000000003
+447297,187-R,AL-WYC_AL-GV7_AL-A32_AL-N37_AL-T78,Invasive breast carcinoma,"TNBC, Ductal",IDC,Breast,PDX,39.00010000000003
+755229,096-R,AL-VNC_AL-C55,Invasive breast carcinoma,Ductal,IDC,Breast,PDX,38.00010000000003
+755229,096-R,AL-VNC,Invasive breast carcinoma,Ductal,IDC,Breast,PDX,36.00010000000003
+755229,096-R,AL-VNC_AL-C53_AL-J67,Invasive breast carcinoma,Ductal,IDC,Breast,PDX,33.09895754005094
+755229,096-R,AL-VNC_AL-C53_AL-J67_AL-Q60,Invasive breast carcinoma,Ductal,IDC,Breast,PDX,32.00010000000003
+193832,021-R,AL-JGK_AL-W50,Invasive breast carcinoma,"ductal, TNBC",IDC,Breast,PDX,31.97319668743963
+K43197,176-R,AL-K6V,Invasive breast carcinoma,infiltrating ductal,IDC,Breast,PDX,31.97319668743963
+K88036,263-T,KTTC05,Invasive breast carcinoma,TNBC,BRCA,Breast,PDX,30.863750690944112
+447297,187-R,AL-WYC_AL-GV7,Invasive breast carcinoma,"TNBC, Ductal",IDC,Breast,PDX,30.01656743367191
+748385,122-R,X1GH06,Invasive breast carcinoma,Ductal,IDC,Breast,PDX,29.00010000000002
+431587,115-T,AL-YFY,Invasive breast carcinoma,Lobular,ILC,Breast,PDX,28.00010000000002
+879694,015-R,ORIGINATOR,Invasive breast carcinoma,"ductal, TNBC",IDC,Breast,Patient/Originator Specimen,27.394722292118967
+388244,064-R,AL-K8X_AL-A06,Invasive breast carcinoma,TNBC,BRCA,Breast,PDX,25.924375022221252
+558632,135-R,AL-ETU_AL-EK6,Invasive breast carcinoma,"ductal, TNBC",IDC,Breast,PDX,25.78485600064708
+581153,110-T,J1-PDC,Invasive breast carcinoma,ductal adenocarcinoma,IDC,Breast,PDC: Mixed Tumor Culture,25.42031093505173
+727343,253-R,J1-PDC,Invasive breast carcinoma,-,BRCA,Breast,PDC: Mixed Tumor Culture,25.15934331656114
+431587,115-T,AL-YFY_AL-M915_AL-M137_AL-A02,Invasive breast carcinoma,Lobular,ILC,Breast,PDX,24.7688103701575
+594336,271-R,AL-G6E_AL-Q52_AL-U84_AL-V78_AL-A13,Invasive breast carcinoma,"Ductal, TNBC",IDC,Breast,PDX,22.734897371357466
+388244,064-R,V1-organoid,Invasive breast carcinoma,TNBC,BRCA,Breast,Organoid Culture,22.388888451985398
+447297,187-R,AL-WYC_AL-GV6,Invasive breast carcinoma,"TNBC, Ductal",IDC,Breast,PDX,22.000100000000018
+727343,253-R,AL-NNV_AL-T61_AL-U58,Invasive breast carcinoma,-,BRCA,Breast,PDX,22.000100000000018
+337426,197-R,AL-F5Y,Invasive breast carcinoma,TNBC,BRCA,Breast,PDX,21.994351206520843
+824345,141-R,AL-NTW_AL-E76,Invasive breast carcinoma,TNBC,BRCA,Breast,PDX,21.000100000000018
+447297,187-R,AL-WYC,Invasive breast carcinoma,"TNBC, Ductal",IDC,Breast,PDX,20.796758402999092
+K88036,263-T,KTU,Invasive breast carcinoma,TNBC,BRCA,Breast,PDX,19.203972160187433
+193832,021-R,AL-JGK_AL-W57,Invasive breast carcinoma,"ductal, TNBC",IDC,Breast,PDX,19.14855156708174
+824345,141-R,AL-NTW_AL-E70_AL-N00,Invasive breast carcinoma,TNBC,BRCA,Breast,PDX,19.000100000000014
+K74698,298-T,J1-PDC,Invasive breast carcinoma,-,BRCA,Breast,PDC: Mixed Tumor Culture,19.000100000000014
+748385,122-R,X1GH07,Invasive breast carcinoma,Ductal,IDC,Breast,PDX,19.000100000000014
+K43197,176-R,AL-K6V_AL-A25,Invasive breast carcinoma,infiltrating ductal,IDC,Breast,PDX,18.000100000000014
+727343,253-R,AL-NNV_AL-T73_AL-U63,Invasive breast carcinoma,-,BRCA,Breast,PDX,17.92115966726633
+K43197,176-R,AL-K6NQ33,Invasive breast carcinoma,infiltrating ductal,IDC,Breast,PDX,17.000100000000014
+193832,021-R,AL-JGF,Invasive breast carcinoma,"ductal, TNBC",IDC,Breast,PDX,16.341337669517614
+193832,021-R,AL-JGK,Invasive breast carcinoma,"ductal, TNBC",IDC,Breast,PDX,16.251164594247697
+431587,115-T,AL-YFY_AL-M913_AL-V22,Invasive breast carcinoma,Lobular,ILC,Breast,PDX,16.000100000000014
+128162,247-R,AL-NQ6_AL-T93_AL-W64,Invasive breast carcinoma,"ductal, TNBC",IDC,Breast,PDX,15.556495545412632
+388244,064-R,AL-K8X_AL-A07_AL-M293_AL-J83,Invasive breast carcinoma,TNBC,BRCA,Breast,PDX,15.000100000000012
+824345,141-R,AL-NTW,Invasive breast carcinoma,TNBC,BRCA,Breast,PDX,14.00010000000001
+879694,015-R,J1-PDC,Invasive breast carcinoma,"ductal, TNBC",IDC,Breast,PDC: Mixed Tumor Culture,14.00010000000001
+431587,115-T,AL-YFY_AL-M913_AL-V25_AL-A50,Invasive breast carcinoma,Lobular,ILC,Breast,PDX,14.00010000000001
+431587,115-T,AL-YFY_AL-M915_AL-M136_RG-AL-AW6,Invasive breast carcinoma,Lobular,ILC,Breast,PDX,13.00010000000001
+431587,115-T,AL-YFY_AL-M915_AL-M138,Invasive breast carcinoma,Lobular,ILC,Breast,PDX,13.00010000000001
+748385,122-R,X1GH07G96_AL-KV2,Invasive breast carcinoma,Ductal,IDC,Breast,PDX,13.00010000000001
+594336,271-R,AL-G6E,Invasive breast carcinoma,"Ductal, TNBC",IDC,Breast,PDX,12.89494077761492
+448835,203-R,V1-organoid,Invasive breast carcinoma,"TNBC, ductal",IDC,Breast,Organoid Culture,12.15175810755722
+447297,187-R,AL-WYC_AL-GV7_AL-A32_AL-N45,Invasive breast carcinoma,"TNBC, Ductal",IDC,Breast,PDX,12.017664909667126
+913291,066-R,UJHG08J25,Invasive breast carcinoma,Ductal,IDC,Breast,PDX,12.000100000000009
+755229,096-R,AL-VNC_AL-C54_AL-Q07,Invasive breast carcinoma,Ductal,IDC,Breast,PDX,12.000100000000009
+727343,253-R,AL-NNV,Invasive breast carcinoma,-,BRCA,Breast,PDX,11.907574801747293
+193832,021-R,AL-JGF_AL-WF0,Invasive breast carcinoma,"ductal, TNBC",IDC,Breast,PDX,11.34577319370276
+558632,135-R,AL-ETU_AL-EK5,Invasive breast carcinoma,"ductal, TNBC",IDC,Breast,PDX,11.000100000000009
+594336,271-R,AL-G6E_AL-Q52_AL-U84_AL-V75,Invasive breast carcinoma,"Ductal, TNBC",IDC,Breast,PDX,10.309640641423693
+K27874,074-R,AL-K6W_AL-H04,Invasive breast carcinoma,TNBC,BRCA,Breast,PDX,10.000100000000007
+388244,064-R,AL-KKY_AL-AF1,Invasive breast carcinoma,TNBC,BRCA,Breast,PDX,10.000100000000007
+K43197,176-R,AL-K6U,Invasive breast carcinoma,infiltrating ductal,IDC,Breast,PDX,9.140100000000007
+885512,296-R,AL-KAG_AL-Q34_AL-T39,Invasive breast carcinoma,"TNBC, mixed ductal carcinoma and metaplastic squamous cell carcinoma",MMBC,Breast,PDX,9.000100000000007
+868763,120-R,AL-N2P,Invasive breast carcinoma,Ductal TNBC,IDC,Breast,PDX,8.322630365979162
+193832,021-R,AL-JGF_AL-WF4,Invasive breast carcinoma,"ductal, TNBC",IDC,Breast,PDX,8.300982619231693
+128162,247-R,AL-NQ6_AL-T93,Invasive breast carcinoma,"ductal, TNBC",IDC,Breast,PDX,8.080425487473427
+388244,064-R,AL-K8X_AL-A07_AL-M292,Invasive breast carcinoma,TNBC,BRCA,Breast,PDX,7.941002800809124
+397859,316-R,P0POOL_OT-Q23N60KY7W19,Invasive breast carcinoma,"Ductal, TNBC",IDC,Breast,PDX,7.236645585802558
+755229,096-R,AL-VNC_AL-C52_AL-Q51,Invasive breast carcinoma,Ductal,IDC,Breast,PDX,7.156407444339873
+397859,316-R,P0POOL_OT-Q23N59,Invasive breast carcinoma,"Ductal, TNBC",IDC,Breast,PDX,7.000100000000005
+K43197,176-R,AL-K6H_AL-Q32_AL-Q45,Invasive breast carcinoma,infiltrating ductal,IDC,Breast,PDX,6.614790678738977
+755484,060-R,AL-U0J_AL-NU4,Invasive breast carcinoma,"TNBC, Ductal",IDC,Breast,PDX,6.135331994240848
+535342,205-R,AL-YEJ_AL-KT9_AL-NU0,Invasive breast carcinoma,"ductal, TNBC",IDC,Breast,PDX,5.9014628020226425
+K27874,074-R,AL-K7C,Invasive breast carcinoma,TNBC,BRCA,Breast,PDX,5.293962802311528
+K27874,074-R,AL-K6X,Invasive breast carcinoma,TNBC,BRCA,Breast,PDX,5.000100000000003
+885512,296-R,J2-PDC,Invasive breast carcinoma,"TNBC, mixed ductal carcinoma and metaplastic squamous cell carcinoma",MMBC,Breast,PDC: Mixed Tumor Culture,5.000100000000003
+748385,122-R,X1GH07G96_AL-KU5,Invasive breast carcinoma,Ductal,IDC,Breast,PDX,5.000100000000003
+885512,296-R,AL-KAE_AL-Q12,Invasive breast carcinoma,"TNBC, mixed ductal carcinoma and metaplastic squamous cell carcinoma",MMBC,Breast,PDX,5.000100000000003
+748385,122-R,X1G,Invasive breast carcinoma,Ductal,IDC,Breast,PDX,4.832755165107229
+535342,205-R,AL-Y4A_AL-ND4,Invasive breast carcinoma,"ductal, TNBC",IDC,Breast,PDX,4.493304886224207
+974727,301-T,OT-PPJ_OT-UH0YJ3,Invasive breast carcinoma,"Ductal, TNBC",IDC,Breast,PDX,4.255168649424837
+727737,146-R,AL-XXK_AL-H77,Invasive breast carcinoma,Mammary ,IDC,Breast,PDX,4.059415998457997
+824345,141-R,AL-NTW_AL-E70_AL-K93,Invasive breast carcinoma,TNBC,BRCA,Breast,PDX,4.000100000000003
+412248,322-R,QXUVX9,Invasive breast carcinoma,"Ductal, TNBC",IDC,Breast,PDX,4.000100000000003
+558632,135-R,AL-ETU_AL-EK4_AL-G54_AL-Q74,Invasive breast carcinoma,"ductal, TNBC",IDC,Breast,PDX,4.000100000000003
+171881,019-R,J1-PDC,Invasive breast carcinoma,-,BRCA,Breast,PDC: Mixed Tumor Culture,4.000100000000003
+K68440,261-T,KQXE03,Invasive breast carcinoma,ductal,IDC,Breast,PDX,4.000100000000003
+885512,296-R,AL-KAF,Invasive breast carcinoma,"TNBC, mixed ductal carcinoma and metaplastic squamous cell carcinoma",MMBC,Breast,PDX,4.000100000000003
+994819,140-R,OT-FWCP10,Invasive breast carcinoma,"ductal, TNBC",IDC,Breast,PDX,3.779917481993627
+771265,069-T,AL-GCE,Invasive breast carcinoma,Ductal; TNBC,IDC,Breast,PDX,3.227221392333461
+243415,090-R,AL-WGC_AL-AJ6,Invasive breast carcinoma,Ductal ,IDC,Breast,PDX,3.1988343791848304
+397859,316-R,P0POOL_OT-Q23N60N00UE1X09,Invasive breast carcinoma,"Ductal, TNBC",IDC,Breast,PDX,3.163185338359264
+K27874,074-R,AL-K6X_AL-M822,Invasive breast carcinoma,TNBC,BRCA,Breast,PDX,3.0001000000000024
+412248,322-R,QXCXA7,Invasive breast carcinoma,"Ductal, TNBC",IDC,Breast,PDX,3.0001000000000024
+727737,146-R,AL-XXK,Invasive breast carcinoma,Mammary ,IDC,Breast,PDX,2.648198111162295
+K03247,164-R,AL-K4T,Invasive breast carcinoma,"TNBC, ductal",IDC,Breast,PDX,2.4509013409366585
+128162,247-R,AL-NQ7_AL-U52,Invasive breast carcinoma,"ductal, TNBC",IDC,Breast,PDX,2.000100000000002
+824345,141-R,AL-NTW_AL-E70,Invasive breast carcinoma,TNBC,BRCA,Breast,PDX,2.000100000000002
+K33807,207-R,AL-K5G_AL-A27_AL-C01,Invasive breast carcinoma,-,BRCA,Breast,PDX,2.000100000000002
+K27874,074-R,AL-K6X_AL-M824_AL-AJ8,Invasive breast carcinoma,TNBC,BRCA,Breast,PDX,2.000100000000002
+885512,296-R,AL-KAF_AL-Q24,Invasive breast carcinoma,"TNBC, mixed ductal carcinoma and metaplastic squamous cell carcinoma",MMBC,Breast,PDX,2.000100000000002
+594336,271-R,AL-G6E_AL-Q52_AL-U88,Invasive breast carcinoma,"Ductal, TNBC",IDC,Breast,PDX,1.9751942313156459
+556579,094-R,UWUJJ0KX2,Invasive breast carcinoma,"TNBC, Mammary ",BRCA,Breast,PDX,1.8217326620037826
+K74698,298-T,KTKM726E12,Invasive breast carcinoma,-,BRCA,Breast,PDX,1.7432227341343824
+535342,205-R,AL-YEJ_AL-KT7,Invasive breast carcinoma,"ductal, TNBC",IDC,Breast,PDX,1.699440160675068
+K03247,164-R,AL-K4P_AL-M832,Invasive breast carcinoma,"TNBC, ductal",IDC,Breast,PDX,1.5694801811356298
+755484,060-R,AL-U0J_AL-NT5_AL-Q87_AL-E29,Invasive breast carcinoma,"TNBC, Ductal",IDC,Breast,PDX,1.064556136698354
+337426,197-R,AL-F5W_AL-A70,Invasive breast carcinoma,TNBC,BRCA,Breast,PDX,1.0099346031741174
+K33807,207-R,AL-K5G_AL-A29-DS1_C38,Invasive breast carcinoma,-,BRCA,Breast,PDX,1.0054262023688765
+755484,060-R,AL-U0J_AL-NT5_AL-Q87_AL-E28,Invasive breast carcinoma,"TNBC, Ductal",IDC,Breast,PDX,1.0001000000000009
+594336,271-R,AL-G6E_AL-Q52_AL-U84_AL-V80,Invasive breast carcinoma,"Ductal, TNBC",IDC,Breast,PDX,1.0001000000000009
+397859,316-R,ORIGINATOR,Invasive breast carcinoma,"Ductal, TNBC",IDC,Breast,Patient/Originator Specimen,1.0001000000000009
+388244,064-R,AL-K8X,Invasive breast carcinoma,TNBC,BRCA,Breast,PDX,1.0001000000000009
+K03247,164-R,AL-K4Q_AL-M836,Invasive breast carcinoma,"TNBC, ductal",IDC,Breast,PDX,0.8040812329476944
+K03247,164-R,AL-K4P,Invasive breast carcinoma,"TNBC, ductal",IDC,Breast,PDX,0.6195171604343004
+535342,205-R,AL-YEJ,Invasive breast carcinoma,"ductal, TNBC",IDC,Breast,PDX,0.0002502404319800266
+556579,094-R,UWTJT3,Invasive breast carcinoma,"TNBC, Mammary ",BRCA,Breast,PDX,0.00022754664002905893
+868763,120-R,AL-N2P_AL-Y21,Invasive breast carcinoma,Ductal TNBC,IDC,Breast,PDX,0.00018224739214159206
+448835,203-R,AL-F1E,Invasive breast carcinoma,"TNBC, ductal",IDC,Breast,PDX,0.00017332209128110212
+337426,197-R,AL-F5Y_AL-A79_AL-C55_AL-F15,Invasive breast carcinoma,TNBC,BRCA,Breast,PDX,0.00017311103318087695
+535342,205-R,AL-YEJ_AL-KT9_AL-NU4,Invasive breast carcinoma,"ductal, TNBC",IDC,Breast,PDX,0.00016294029219846072
+448835,203-R,AL-F1C_AL-E87,Invasive breast carcinoma,"TNBC, ductal",IDC,Breast,PDX,0.00015781112278100075
+337426,197-R,AL-F5W_AL-A72E71,Invasive breast carcinoma,TNBC,BRCA,Breast,PDX,0.00015103536831845898
+994819,140-R,OT-FWF,Invasive breast carcinoma,"ductal, TNBC",IDC,Breast,PDX,0.00014651457906743212
+868763,120-R,AL-N3P_AL-X21,Invasive breast carcinoma,Ductal TNBC,IDC,Breast,PDX,0.0001460664094985005
+974727,301-T,OT-PPJ_OT-UH3XX0,Invasive breast carcinoma,"Ductal, TNBC",IDC,Breast,PDX,0.0001444234096580456
+585541,042-R,AL-P7V_AL-A57,Inflammatory breast carcinoma,infiltrating ductal ,IBC,Breast,PDX,0.00014100724188973734
+448835,203-R,AL-F1A_AL-K48,Invasive breast carcinoma,"TNBC, ductal",IDC,Breast,PDX,0.0001315484984024561
+994819,140-R,OT-FWFP19,Invasive breast carcinoma,"ductal, TNBC",IDC,Breast,PDX,0.00012988101261002849
+913291,066-R,UJHG08,Invasive breast carcinoma,Ductal,IDC,Breast,PDX,0.00012798008466578166
+727737,146-R,AL-XXK_AL-H79_AL-N18,Invasive breast carcinoma,Mammary ,IDC,Breast,PDX,0.0001269630497253677
+171881,019-R,V1-organoid,Invasive breast carcinoma,-,BRCA,Breast,Organoid Culture,0.00012234265258222814
+352319,331-R,AL-KHF_AL-A37_RG-AL-K80,Invasive breast carcinoma,NST,BRCA,Breast,PDX,0.00012199312759231457
+535342,205-R,AL-YEJ_AL-KT5,Invasive breast carcinoma,"ductal, TNBC",IDC,Breast,PDX,0.00012126047908785243
+974727,301-T,OT-PPJ,Invasive breast carcinoma,"Ductal, TNBC",IDC,Breast,PDX,0.0001193622430429128
+755484,060-R,AL-U0J_AL-NT5_AL-Q86,Invasive breast carcinoma,"TNBC, Ductal",IDC,Breast,PDX,0.0001188314686599181
+585541,042-R,AL-P8E_AL-A32_AL-A74,Inflammatory breast carcinoma,infiltrating ductal ,IBC,Breast,PDX,0.00011698358262593171
+879694,015-R,AL-N63,Invasive breast carcinoma,"ductal, TNBC",IDC,Breast,PDX,0.00011524003212043572
+994819,140-R,OT-FWFP18_RG-N15K11,Invasive breast carcinoma,"ductal, TNBC",IDC,Breast,PDX,0.00011490960775582412
+974727,301-T,OT-PPJ_OT-UH3XX3CK4F16,Invasive breast carcinoma,"Ductal, TNBC",IDC,Breast,PDX,0.00011395205962522932
+974727,301-T,OT-PPJ_OT-UH5,Invasive breast carcinoma,"Ductal, TNBC",IDC,Breast,PDX,0.00011357763963885558
+727737,146-R,AL-XXK_AL-H76,Invasive breast carcinoma,Mammary ,IDC,Breast,PDX,0.00011342321492635695
+556579,094-R,UWUJJ3,Invasive breast carcinoma,"TNBC, Mammary ",BRCA,Breast,PDX,0.00011224467337846623
+352319,331-R,AL-KHF,Invasive breast carcinoma,NST,BRCA,Breast,PDX,0.00011205638821159977
+913291,066-R,V1-organoid,Invasive breast carcinoma,Ductal,IDC,Breast,Organoid Culture,0.00011197997639070245
+974727,301-T,OT-PPJ_OT-UH3XX3CK1,Invasive breast carcinoma,"Ductal, TNBC",IDC,Breast,PDX,0.00011163218027489437
+755484,060-R,AL-U0J_AL-NT5_AL-Q89,Invasive breast carcinoma,"TNBC, Ductal",IDC,Breast,PDX,0.00011037202775546625
+755484,060-R,AL-U0J,Invasive breast carcinoma,"TNBC, Ductal",IDC,Breast,PDX,0.00010997120617657353
+585541,042-R,AL-P8A,Inflammatory breast carcinoma,infiltrating ductal ,IBC,Breast,PDX,0.00010971572911677127
+337426,197-R,AL-F5Y_AL-A80,Invasive breast carcinoma,TNBC,BRCA,Breast,PDX,0.0001075975725979355
+868763,120-R,AL-NTT_AL-X86,Invasive breast carcinoma,Ductal TNBC,IDC,Breast,PDX,0.00010740945876821454
+412248,322-R,QXTTN3WN6,Invasive breast carcinoma,"Ductal, TNBC",IDC,Breast,PDX,0.00010691361328936563
+994819,140-R,OT-FWFP18_RG-N13,Invasive breast carcinoma,"ductal, TNBC",IDC,Breast,PDX,0.0001067694264904862
+913291,066-R,UJHG08J26_AL-KX9,Invasive breast carcinoma,Ductal,IDC,Breast,PDX,0.00010611050712253366
+K68440,261-T,KUUE08E38E79,Invasive breast carcinoma,ductal,IDC,Breast,PDX,0.00010337917438040253
+868763,120-R,AL-NTT_AL-X92,Invasive breast carcinoma,Ductal TNBC,IDC,Breast,PDX,0.00010313901144654253
+415267,285-R,AK3,Inflammatory breast carcinoma,TNBC,IBC,Breast,PDX,0.00010313901144654253
+K74698,298-T,KTFM718,Invasive breast carcinoma,-,BRCA,Breast,PDX,0.00010313901144654253
+K33807,207-R,AL-K5H_AL-A31_AL-C12,Invasive breast carcinoma,-,BRCA,Breast,PDX,0.00010313901144654253
+K33807,207-R,AL-K5H_AL-A31,Invasive breast carcinoma,-,BRCA,Breast,PDX,0.00010313901144654253
+879694,015-R,AL-N66_AL-W91,Invasive breast carcinoma,"ductal, TNBC",IDC,Breast,PDX,0.00010307971702419243
+337426,197-R,AL-F5Y_AL-A81_AL-C56_AL-E24_AL-F39,Invasive breast carcinoma,TNBC,BRCA,Breast,PDX,0.00010306981347397625
+885512,296-R,AL-KAW_AL-Q88,Invasive breast carcinoma,"TNBC, mixed ductal carcinoma and metaplastic squamous cell carcinoma",MMBC,Breast,PDX,0.00010303950308088148
+352319,331-R,AL-KHF_AL-A37_RG-AL-K84,Invasive breast carcinoma,NST,BRCA,Breast,PDX,0.00010261641681419695
+556579,094-R,UWVJT7,Invasive breast carcinoma,"TNBC, Mammary ",BRCA,Breast,PDX,0.00010256035745989374
+397859,316-R,P0POOL_OT-Q25,Invasive breast carcinoma,"Ductal, TNBC",IDC,Breast,PDX,0.00010194923961790116
+879694,015-R,AL-N66,Invasive breast carcinoma,"ductal, TNBC",IDC,Breast,PDX,0.00010143347238823495
+128162,247-R,AL-NQ9_AL-U84,Invasive breast carcinoma,"ductal, TNBC",IDC,Breast,PDX,0.00010106403037594223
+171881,019-R,APW-DS2,Invasive breast carcinoma,-,BRCA,Breast,PDX,0.00010000000000000009
+K33807,207-R,AL-K5G_AL-A27_AL-C02,Invasive breast carcinoma,-,BRCA,Breast,PDX,0.00010000000000000009
+171881,019-R,APWG05PF7,Invasive breast carcinoma,-,BRCA,Breast,PDX,0.00010000000000000009
+K27874,074-R,AL-K6X_AL-M824_AL-AJ6,Invasive breast carcinoma,TNBC,BRCA,Breast,PDX,0.00010000000000000009
+128162,247-R,AL-NQ9,Invasive breast carcinoma,"ductal, TNBC",IDC,Breast,PDX,0.00010000000000000009
+K33807,207-R,AL-K5G_AL-A27_AL-C00-DS2_C69,Invasive breast carcinoma,-,BRCA,Breast,PDX,0.00010000000000000009
+171881,019-R,APVG40_RG-G15,Invasive breast carcinoma,-,BRCA,Breast,PDX,0.00010000000000000009
+K74698,298-T,KTK,Invasive breast carcinoma,-,BRCA,Breast,PDX,0.00010000000000000009
+K74698,298-T,KTKM728,Invasive breast carcinoma,-,BRCA,Breast,PDX,0.00010000000000000009
+K33807,207-R,AL-K5G_AL-A28_AL-C04-DS2_C60,Invasive breast carcinoma,-,BRCA,Breast,PDX,0.00010000000000000009
+171881,019-R,APWG05,Invasive breast carcinoma,-,BRCA,Breast,PDX,0.00010000000000000009
+K33807,207-R,AL-K5G,Invasive breast carcinoma,-,BRCA,Breast,PDX,0.00010000000000000009
+994819,140-R,OT-FWFP18_RG-N15,Invasive breast carcinoma,"ductal, TNBC",IDC,Breast,PDX,0.00010000000000000009
+K68440,261-T,KUUE08E40,Invasive breast carcinoma,ductal,IDC,Breast,PDX,0.00010000000000000009
+K33807,207-R,V1-organoid,Invasive breast carcinoma,-,BRCA,Breast,Organoid Culture,0.00010000000000000009
+K68440,261-T,KTE,Invasive breast carcinoma,ductal,IDC,Breast,PDX,0.00010000000000000009
+K68440,261-T,KTAM713E20,Invasive breast carcinoma,ductal,IDC,Breast,PDX,0.00010000000000000009
+K68440,261-T,KQX,Invasive breast carcinoma,ductal,IDC,Breast,PDX,0.00010000000000000009
+171881,019-R,APYF68,Invasive breast carcinoma,-,BRCA,Breast,PDX,0.00010000000000000009
+415267,285-R,AK6,Inflammatory breast carcinoma,TNBC,IBC,Breast,PDX,0.00010000000000000009
+913291,066-R,UJH,Invasive breast carcinoma,Ductal,IDC,Breast,PDX,0.00010000000000000009
+448835,203-R,AL-F1C,Invasive breast carcinoma,"TNBC, ductal",IDC,Breast,PDX,0.00010000000000000009
+748385,122-R,X1GM092J94,Invasive breast carcinoma,Ductal,IDC,Breast,PDX,0.00010000000000000009
+243415,090-R,AL-WGC_AL-AJ7,Invasive breast carcinoma,Ductal ,IDC,Breast,PDX,0.00010000000000000009
+337426,197-R,V2-organoid,Invasive breast carcinoma,TNBC,BRCA,Breast,Organoid Culture,0.00010000000000000009
+352319,331-R,AL-KHF_AL-A39,Invasive breast carcinoma,NST,BRCA,Breast,PDX,0.00010000000000000009
+594336,271-R,AL-G6E_AL-Q58,Invasive breast carcinoma,"Ductal, TNBC",IDC,Breast,PDX,0.00010000000000000009
+352319,331-R,AL-KHF_AL-A41,Invasive breast carcinoma,NST,BRCA,Breast,PDX,0.00010000000000000009
+352319,331-R,AL-KHF_AL-A44,Invasive breast carcinoma,NST,BRCA,Breast,PDX,0.00010000000000000009
+388244,064-R,AL-K8X_AL-A12_AL-C50,Invasive breast carcinoma,TNBC,BRCA,Breast,PDX,0.00010000000000000009
+558632,135-R,AL-ETU_AL-EK5_AL-G96,Invasive breast carcinoma,"ductal, TNBC",IDC,Breast,PDX,0.00010000000000000009
+556579,094-R,UWU,Invasive breast carcinoma,"TNBC, Mammary ",BRCA,Breast,PDX,0.00010000000000000009
+556579,094-R,UWUJJ1_RG-PV8,Invasive breast carcinoma,"TNBC, Mammary ",BRCA,Breast,PDX,0.00010000000000000009
+448835,203-R,AL-F1C_AL-E90,Invasive breast carcinoma,"TNBC, ductal",IDC,Breast,PDX,0.00010000000000000009
+243415,090-R,AL-WGC_AL-AJ0_AL-J82,Invasive breast carcinoma,Ductal ,IDC,Breast,PDX,0.00010000000000000009
+448835,203-R,AL-F1C_AL-E88_AL-K84,Invasive breast carcinoma,"TNBC, ductal",IDC,Breast,PDX,0.00010000000000000009
+397859,316-R,P0POOL_OT-Q23,Invasive breast carcinoma,"Ductal, TNBC",IDC,Breast,PDX,0.00010000000000000009
+397859,316-R,P0POOL_OT-Q25_RG-NP9,Invasive breast carcinoma,"Ductal, TNBC",IDC,Breast,PDX,0.00010000000000000009
+412248,322-R,QXC,Invasive breast carcinoma,"Ductal, TNBC",IDC,Breast,PDX,0.00010000000000000009
+412248,322-R,QXTTN4,Invasive breast carcinoma,"Ductal, TNBC",IDC,Breast,PDX,0.00010000000000000009
+412248,322-R,QXTTN7,Invasive breast carcinoma,"Ductal, TNBC",IDC,Breast,PDX,0.00010000000000000009
+415267,285-R,AK3JG4,Inflammatory breast carcinoma,TNBC,IBC,Breast,PDX,0.00010000000000000009
+415267,285-R,AK3JG5K66,Inflammatory breast carcinoma,TNBC,IBC,Breast,PDX,0.00010000000000000009
+415267,285-R,AK3JG5K68C67,Inflammatory breast carcinoma,TNBC,IBC,Breast,PDX,0.00010000000000000009
+415267,285-R,AK3JJ0C83,Inflammatory breast carcinoma,TNBC,IBC,Breast,PDX,0.00010000000000000009
+415267,285-R,V1-organoid,Inflammatory breast carcinoma,TNBC,IBC,Breast,Organoid Culture,0.00010000000000000009
+913291,066-R,UJHG07K01,Invasive breast carcinoma,Ductal,IDC,Breast,PDX,0.00010000000000000009
+243415,090-R,AL-WGC_AL-AJ0,Invasive breast carcinoma,Ductal ,IDC,Breast,PDX,0.00010000000000000009
+231664,311-R,AL-F3N_AL-AW8,Invasive breast carcinoma,Ductal,IDC,Breast,PDX,0.00010000000000000009
+231664,311-R,AL-F3H,Invasive breast carcinoma,Ductal,IDC,Breast,PDX,0.00010000000000000009
+913291,066-R,UJF,Invasive breast carcinoma,Ductal,IDC,Breast,PDX,0.00010000000000000009
+888918,336-R,AL-FKY_AL-G94_RG-AL-N34,Invasive breast carcinoma,-,BRCA,Breast,PDX,0.00010000000000000009
+888918,336-R,AL-FKY_AL-G93,Invasive breast carcinoma,-,BRCA,Breast,PDX,0.00010000000000000009
+888918,336-R,AL-FKY_AL-G88_AL-K01,Invasive breast carcinoma,-,BRCA,Breast,PDX,0.00010000000000000009
+885512,296-R,AL-KAG_AL-Q33,Invasive breast carcinoma,"TNBC, mixed ductal carcinoma and metaplastic squamous cell carcinoma",MMBC,Breast,PDX,0.00010000000000000009
+879694,015-R,AL-N65_AL-X01,Invasive breast carcinoma,"ductal, TNBC",IDC,Breast,PDX,0.00010000000000000009
+879694,015-R,AL-N63_AL-X46_AL-Y46,Invasive breast carcinoma,"ductal, TNBC",IDC,Breast,PDX,0.00010000000000000009
+879694,015-R,AL-N62_AL-X08,Invasive breast carcinoma,"ductal, TNBC",IDC,Breast,PDX,0.00010000000000000009
+231664,311-R,AL-F3K_AL-C90,Invasive breast carcinoma,Ductal,IDC,Breast,PDX,0.00010000000000000009
+231664,311-R,AL-F3H_AL-C69,Invasive breast carcinoma,Ductal,IDC,Breast,PDX,0.00010000000000000009
+868763,120-R,AL-N3P,Invasive breast carcinoma,Ductal TNBC,IDC,Breast,PDX,0.00010000000000000009
+824345,141-R,AL-NTW_AL-E73,Invasive breast carcinoma,TNBC,BRCA,Breast,PDX,0.00010000000000000009
+231664,311-R,AL-F3J,Invasive breast carcinoma,Ductal,IDC,Breast,PDX,0.00010000000000000009
+415267,285-R,J2-PDC,Inflammatory breast carcinoma,TNBC,IBC,Breast,PDC: Mixed Tumor Culture,0.00010000000000000009
+771265,069-T,AL-GCE_AL-C37_AL-E44,Invasive breast carcinoma,Ductal; TNBC,IDC,Breast,PDX,0.00010000000000000009
+771265,069-T,AL-GCE_AL-C35_AL-E98,Invasive breast carcinoma,Ductal; TNBC,IDC,Breast,PDX,0.00010000000000000009
+231664,311-R,AL-F3J_AL-AE1,Invasive breast carcinoma,Ductal,IDC,Breast,PDX,0.00010000000000000009
+755484,060-R,AL-U0J_AL-NT5_AL-Q87,Invasive breast carcinoma,"TNBC, Ductal",IDC,Breast,PDX,0.00010000000000000009
+888918,336-R,AL-FKY_AL-G86,Invasive breast carcinoma,-,BRCA,Breast,PDX,9.831757047258488e-05
+727343,253-R,V1-organoid,Invasive breast carcinoma,-,BRCA,Breast,Organoid Culture,9.591509497757179e-05
+888918,336-R,AL-FKY,Invasive breast carcinoma,-,BRCA,Breast,PDX,9.519461377036942e-05
+K74698,298-T,KTHM705,Invasive breast carcinoma,-,BRCA,Breast,PDX,9.50390422113747e-05
+585541,042-R,AL-P7U_AL-A62,Inflammatory breast carcinoma,infiltrating ductal ,IBC,Breast,PDX,8.926538128616412e-05
+771265,069-T,AL-GCE_AL-C40,Invasive breast carcinoma,Ductal; TNBC,IDC,Breast,PDX,8.411753441479835e-05
+243415,090-R,AL-WGC,Invasive breast carcinoma,Ductal ,IDC,Breast,PDX,8.0890021461261e-05
+879694,015-R,V1-organoid,Invasive breast carcinoma,"ductal, TNBC",IDC,Breast,Organoid Culture,7.391508972704026e-05
+771265,069-T,AL-GCE_AL-C37,Invasive breast carcinoma,Ductal; TNBC,IDC,Breast,PDX,7.38742957647114e-05
+K03247,164-R,AL-K4T_AL-M837,Invasive breast carcinoma,"TNBC, ductal",IDC,Breast,PDX,7.272290781079232e-05
+888918,336-R,AL-FKY_AL-G88,Invasive breast carcinoma,-,BRCA,Breast,PDX,7.130245683217944e-05
